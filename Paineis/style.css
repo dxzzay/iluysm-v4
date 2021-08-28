@@ -1,0 +1,25 @@
+body { 
+font-family: arial;
+color: white;
+text-align: center;
+background-color: #23272A;
+ }
+ h1 {
+font-family: serif;
+color: GRAY;
+text-align: center;
+ }
+  h2 {
+font-family: serif;
+color: red;
+text-align: center;
+ }
+ div {
+ 	font-family: serif;
+ 	color: blue;
+ 	
+ }
+ img {
+    width: 60; 
+    height: 40;
+ }
